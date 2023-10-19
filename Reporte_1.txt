@@ -1,0 +1,6 @@
+<INICIO>
+0. Personas de lima
+1. Obtener transacciones
+2. Obtener detalle
+3. Listar detalle en objeto
+<FIN>

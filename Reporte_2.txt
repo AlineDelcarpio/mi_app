@@ -1,0 +1,5 @@
+<INICIO>
+0. petinciones de lima
+1. Obtener transacciones
+2. Obtener detalle
+<FIN>
